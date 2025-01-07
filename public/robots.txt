@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://your-portfolio-url.com/sitemap.xml
+Sitemap: https://frederic-k-portfolio.netlify.app/sitemap.xml
